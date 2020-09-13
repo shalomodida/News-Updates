@@ -14,7 +14,7 @@ Shalom ODIDA
 
 ## Live demo
 
-</https://newsapi-app.herokuapp.com/>
+</https://shalom-newsupdate.herokuapp.com/>
 ---
 ## User Stories
 As a user I want to, 
